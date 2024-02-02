@@ -13,14 +13,13 @@ const projects: Project[] = [
   },
   {
     title: "style transfer app",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    techs: ["Tensorflow", "Django"],
+    link: "/",
   },
   {
     title: "BART finetune",
-    techs: ["Pytorch"],
-    link: "/",
-    isComingSoon: true,
+    techs: ["Pytorch", "HuggingFace"],
+    link: "/", 
   },
 ];
 
